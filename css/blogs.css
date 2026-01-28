@@ -1,1 +1,33 @@
+.blog-block {
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #75d6ff;
+    align-self: center;
+    align-items: center;
+    width: 500px;
+}
+
+.blog-title {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #000000;
+}
+
+.blog-content {
+    padding-top: 20px;
+}
+
+.blog-text {
+    font-size: 1em;
+    line-height: 1.6;
+}
+
+.blog-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-top: 15px;
+}
 
