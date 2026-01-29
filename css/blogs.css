@@ -44,5 +44,7 @@
 } */
 
 .blog-title .timestamp {
+    font-size: x-small;
+    color: #646464;
 }
 
