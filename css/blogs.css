@@ -27,6 +27,7 @@
 .blog-text {
     font-size: 1em;
     line-height: 1.6;
+    display: inline
 }
 
 .blog-image {
@@ -47,3 +48,13 @@
     color: #646464;
 }
 
+.blog-text-block {
+    display: flex;
+    align-items: center;
+}
+
+.blog-inline-image {
+    /*表情包*/
+    width: auto;
+    height: 3em;
+}
