@@ -1,4 +1,4 @@
-body:not(#content) {
+body:not(#container) {
     margin: 0px 0px 0px 0px;
 }
 
@@ -17,6 +17,6 @@ body:not(#content) {
     margin: 10px 50px 10px 50px;
 }
 
-#content {
+#container {
     margin: 8px;
 }
