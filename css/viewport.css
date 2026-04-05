@@ -1,5 +1,9 @@
-body:not(#content){
+body{
     margin: 0px 0px 0px 0px;
+}
+
+#content {
+    margin: 8px;
 }
 
 #viewport {
